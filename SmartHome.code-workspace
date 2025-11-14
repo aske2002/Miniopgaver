@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "GardinESP32"
+		},
+		{
+			"path": "KaffeESP32"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.embeddedhtml": "html",
+			"freertos.h": "c"
+		}
+	}
+}
