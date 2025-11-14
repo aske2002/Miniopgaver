@@ -60,5 +60,4 @@ static const char *TAG = "GPIO_APP";
 //     gpio_set_level(MAIN_GPIO, 0);
 //     ESP_LOGI(TAG, "LED OFF");
 //     vTaskDelay(pdMS_TO_TICKS(2000));  // 2 seconds delay
-
 // }
